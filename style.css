@@ -1,5 +1,5 @@
 h1{
-        color:blue;
+        color:
          text-align: center;
         font-size: 4rem;
        font-weight: 600;
@@ -14,12 +14,13 @@ p{
     background-color: aliceblue;
 }
 h3{
-        color:tomato;
+        color:gold;
         font-size:2rem;
         letter-spacing:3px;
          word-spacing: 8px;
         
 }
         
+
 
 
